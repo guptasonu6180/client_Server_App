@@ -18,3 +18,4 @@
 4. note: The system have database postgreSql and having gradle configuration in system.
 5. Create database as serverdb and table name as images.
 6. images have id with primary key and Serial & file_path with varchar(255).
+7. To start the Program , Load the application in Tomcat server 8.5 and Run
