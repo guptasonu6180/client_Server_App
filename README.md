@@ -9,8 +9,12 @@
 3. At there, i upload the image in server, for this i created servlet for all the requirement and store in the database.
  ![Screenshot (40)](https://github.com/guptasonu6180/client_Server_App/assets/78613943/fbcfc68d-ace4-442b-97b4-2ba28aac9f6c)
 
+# How to use
 
-
-  
-
-
+1. Copy the link in Your system if there is gitHub and paste it.
+   https://github.com/guptasonu6180/client_Server_App.git
+2. Change the branch after locating in file to the master.
+3. open cmd/powershell and use build.gradle command in file .
+4. note: The system have database postgreSql and having gradle configuration in system.
+5. Create database as serverdb and table name as images.
+6. images have id with primary key and Serial & file_path with varchar(255).
